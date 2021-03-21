@@ -1,4 +1,4 @@
-# Stochastic Deep Gaussian Processes over Graphs
+# GPGene: Inferring Gene Regulatory Networks with Stochastic Variational Gaussian Processes
 
 ## Prerequests
 our implementation is mainly based on following packages:

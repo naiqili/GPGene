@@ -1,6 +1,4 @@
 # Stochastic Deep Gaussian Processes over Graphs
-*code and results for a TCBB paper submission*
-
 
 ## Prerequests
 our implementation is mainly based on following packages:
